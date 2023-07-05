@@ -23,7 +23,7 @@ on:
   workflow_dispatch:
 
 env:
-  VULKAN_SDK_VERSION: 1.3.236.0
+  VULKAN_SDK_VERSION: 1.3.250.1
   VAPOURSYNTH_VERSION: R61
   CMAKE_BUILD_TYPE: Release
 
